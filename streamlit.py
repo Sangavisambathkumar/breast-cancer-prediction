@@ -74,3 +74,4 @@ if user_input:
                 st.write("Prediction: Benign (0) - The tumor is not cancerous.")
     except ValueError:
         st.error("Please enter valid numerical values.")
+
